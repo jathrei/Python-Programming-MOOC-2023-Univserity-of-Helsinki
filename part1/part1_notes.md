@@ -132,3 +132,8 @@ if condition:
 
 ## The else if (elif)
 elif - "if the previous condition didn't execute, try this condition. Otherwise, move on"
+
+
+
+
+end part1
