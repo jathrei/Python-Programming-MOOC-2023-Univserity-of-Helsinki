@@ -30,4 +30,14 @@ use a ":" after a conditional
 
 utilize print statements to debug code
 
-len function: determines the lenght of a string
+> **len function: determines the lenght of a string**
+> exaple: length = len("Apple"), length would equal 5
+
+**TYPECASTING**
+
+> Float to INT rounds down, all the way. it is a floor funciton
+> int is also a funciton. example floor_num = int(num), where num is a float will round it down
+
+# 2.2: More Conditionals
+
+
