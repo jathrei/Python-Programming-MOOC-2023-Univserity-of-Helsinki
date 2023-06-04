@@ -40,4 +40,6 @@ utilize print statements to debug code
 
 # 2.2: More Conditionals
 
+> elif used to imrpove speed of execution, that is: its not like its checking each if statement. Its a faster way to not check certain conditionals unnecessarily. 
+
 
