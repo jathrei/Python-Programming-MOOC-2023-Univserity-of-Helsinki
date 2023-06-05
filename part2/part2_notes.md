@@ -42,5 +42,9 @@ utilize print statements to debug code
 
 > elif used to imrpove speed of execution, that is: its not like its checking each if statement. Its a faster way to not check certain conditionals unnecessarily. 
 
-> Python comparison operators can also be used on strings (alphabetical order) ex: "alpha">"beta" would return true
+> Python comparison operators can also be used on strings (alphabetical order) ex: "alpha">"beta" would be false, "beta">"alpha" would be true. 
+
+>string "a" is smaller than string "b" if "b" comes alphabetically after "a". think which is a higher hexadecimal value.
+
+
 
